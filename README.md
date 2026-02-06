@@ -4,4 +4,4 @@
 
 ### Ссылки
 - Репозиторий проекта: https://github.com/VeniVidiVigor/digital-valentines-love-is.git 
-- Проект на gh-pages: 
+- Проект на gh-pages: https://venividivigor.github.io/digital-valentines-love-is/
